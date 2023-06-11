@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+h2 {
+    margin-top: 56px;
+}
+
+.form-check {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.form-label {
+    padding-top: 10px;
+}
+
+.btn {
+    margin-bottom: 12px;
+}
